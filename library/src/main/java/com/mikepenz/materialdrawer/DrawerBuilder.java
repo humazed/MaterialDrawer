@@ -441,7 +441,7 @@ public class DrawerBuilder {
     }
 
     //the gravity of the drawer
-    protected Integer mDrawerGravity = GravityCompat.START;
+    protected Integer mDrawerGravity = GravityCompat.END;
 
     /**
      * Set the gravity for the drawer. START, LEFT | RIGHT, END
